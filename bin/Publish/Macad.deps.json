@@ -1,0 +1,401 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {},
+    ".NETCoreApp,Version=v9.0/win-x64": {
+      "Macad/5.0.2109.3": {
+        "dependencies": {
+          "ControlzEx": "7.0.1",
+          "Dirkster.AvalonDock": "4.72.1",
+          "Dirkster.AvalonDock.Themes.VS2013": "4.72.1",
+          "Fluent.Ribbon": "10.0.4",
+          "Macad.Common": "5.0.2109.3",
+          "Macad.Core": "5.0.2109.3",
+          "Macad.Exchange": "5.0.2109.3",
+          "Macad.Interaction": "5.0.2109.3",
+          "Macad.Managed": "1.0.0",
+          "Macad.Occt": "1.0.0",
+          "Macad.Presentation": "5.0.2109.3",
+          "Macad.Resources": "5.0.2109.3",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.135"
+        },
+        "runtime": {
+          "Macad.dll": {}
+        }
+      },
+      "ControlzEx/7.0.1": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.135",
+          "System.Text.Json": "8.0.5"
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/ControlzEx.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1.0"
+          }
+        }
+      },
+      "Dirkster.AvalonDock/4.72.1": {
+        "runtime": {
+          "lib/net5.0-windows7.0/AvalonDock.dll": {
+            "assemblyVersion": "4.72.1.0",
+            "fileVersion": "4.72.1.0"
+          }
+        }
+      },
+      "Dirkster.AvalonDock.Themes.VS2013/4.72.1": {
+        "dependencies": {
+          "Dirkster.AvalonDock": "4.72.1"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/AvalonDock.Themes.VS2013.dll": {
+            "assemblyVersion": "4.72.1.0",
+            "fileVersion": "4.72.1.0"
+          }
+        }
+      },
+      "Fluent.Ribbon/10.0.4": {
+        "dependencies": {
+          "ControlzEx": "7.0.1"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Fluent.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.4.0"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.Analyzers/3.3.4": {},
+      "Microsoft.CodeAnalysis.Common/4.12.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.Analyzers": "3.3.4",
+          "System.Collections.Immutable": "8.0.0",
+          "System.Reflection.Metadata": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.CodeAnalysis.dll": {
+            "assemblyVersion": "4.12.0.0",
+            "fileVersion": "4.1200.24.57207"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.CSharp/4.12.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.Analyzers": "3.3.4",
+          "Microsoft.CodeAnalysis.Common": "4.12.0",
+          "System.Collections.Immutable": "8.0.0",
+          "System.Reflection.Metadata": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.CodeAnalysis.CSharp.dll": {
+            "assemblyVersion": "4.12.0.0",
+            "fileVersion": "4.1200.24.57207"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.CSharp.Scripting/4.12.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.CodeAnalysis.Analyzers": "3.3.4",
+          "Microsoft.CodeAnalysis.CSharp": "4.12.0",
+          "Microsoft.CodeAnalysis.Common": "4.12.0",
+          "Microsoft.CodeAnalysis.Scripting.Common": "4.12.0",
+          "System.Collections.Immutable": "8.0.0",
+          "System.Reflection.Metadata": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll": {
+            "assemblyVersion": "4.12.0.0",
+            "fileVersion": "4.1200.24.57207"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.Scripting.Common/4.12.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.Analyzers": "3.3.4",
+          "Microsoft.CodeAnalysis.Common": "4.12.0",
+          "System.Collections.Immutable": "8.0.0",
+          "System.Reflection.Metadata": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.CodeAnalysis.Scripting.dll": {
+            "assemblyVersion": "4.12.0.0",
+            "fileVersion": "4.1200.24.57207"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.135": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.135.29210"
+          }
+        }
+      },
+      "System.Collections.Immutable/8.0.0": {},
+      "System.Reflection.Metadata/8.0.0": {
+        "dependencies": {
+          "System.Collections.Immutable": "8.0.0"
+        }
+      },
+      "System.Text.Encoding.CodePages/9.0.7": {},
+      "System.Text.Json/8.0.5": {},
+      "Macad.Common/5.0.2109.3": {
+        "runtime": {
+          "Macad.Common.dll": {
+            "assemblyVersion": "5.0.2109.3",
+            "fileVersion": "5.0.2109.3"
+          }
+        }
+      },
+      "Macad.Core/5.0.2109.3": {
+        "dependencies": {
+          "Macad.Common": "5.0.2109.3",
+          "Macad.Managed": "1.0.0",
+          "Macad.Occt": "1.0.0",
+          "Microsoft.CodeAnalysis.CSharp.Scripting": "4.12.0",
+          "System.Text.Encoding.CodePages": "9.0.7"
+        },
+        "runtime": {
+          "Macad.Core.dll": {
+            "assemblyVersion": "5.0.2109.3",
+            "fileVersion": "5.0.2109.3"
+          }
+        }
+      },
+      "Macad.Exchange/5.0.2109.3": {
+        "dependencies": {
+          "Macad.Common": "5.0.2109.3",
+          "Macad.Core": "5.0.2109.3",
+          "Macad.Managed": "1.0.0",
+          "Macad.Occt": "1.0.0",
+          "Macad.Presentation": "5.0.2109.3"
+        },
+        "runtime": {
+          "Macad.Exchange.dll": {
+            "assemblyVersion": "5.0.2109.3",
+            "fileVersion": "5.0.2109.3"
+          }
+        }
+      },
+      "Macad.Interaction/5.0.2109.3": {
+        "dependencies": {
+          "ControlzEx": "7.0.1",
+          "Fluent.Ribbon": "10.0.4",
+          "Macad.Common": "5.0.2109.3",
+          "Macad.Core": "5.0.2109.3",
+          "Macad.Exchange": "5.0.2109.3",
+          "Macad.Managed": "1.0.0",
+          "Macad.Occt": "1.0.0",
+          "Macad.Presentation": "5.0.2109.3",
+          "Macad.Resources": "5.0.2109.3",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.135"
+        },
+        "runtime": {
+          "Macad.Interaction.dll": {
+            "assemblyVersion": "5.0.2109.3",
+            "fileVersion": "5.0.2109.3"
+          }
+        }
+      },
+      "Macad.Managed/1.0.0": {
+        "runtime": {
+          "Macad.Managed.dll": {
+            "assemblyVersion": "5.0.2109.3",
+            "fileVersion": "5.0.2109.3"
+          }
+        }
+      },
+      "Macad.Occt/1.0.0": {
+        "runtime": {
+          "Macad.Occt.dll": {
+            "assemblyVersion": "5.0.2109.3",
+            "fileVersion": "5.0.2109.3"
+          }
+        }
+      },
+      "Macad.Presentation/5.0.2109.3": {
+        "dependencies": {
+          "ControlzEx": "7.0.1",
+          "Dirkster.AvalonDock": "4.72.1",
+          "Dirkster.AvalonDock.Themes.VS2013": "4.72.1",
+          "Fluent.Ribbon": "10.0.4",
+          "Macad.Common": "5.0.2109.3",
+          "Macad.Resources": "5.0.2109.3",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.135"
+        },
+        "runtime": {
+          "Macad.Presentation.dll": {
+            "assemblyVersion": "5.0.2109.3",
+            "fileVersion": "5.0.2109.3"
+          }
+        }
+      },
+      "Macad.Resources/5.0.2109.3": {
+        "runtime": {
+          "Macad.Resources.dll": {
+            "assemblyVersion": "5.0.2109.3",
+            "fileVersion": "5.0.2109.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Macad/5.0.2109.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControlzEx/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4tSt07HNxelgppz120arArf/XiGnzQ3vqp4hHynHweLVd7tuR2tFgQogiG1ZnQ5GglSu+FWW5jVCmz3AtVtYuQ==",
+      "path": "controlzex/7.0.1",
+      "hashPath": "controlzex.7.0.1.nupkg.sha512"
+    },
+    "Dirkster.AvalonDock/4.72.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m5J03HVntDM3eu7GyzLWlNdr2c2TTBAoD33Pq1yCID7vEtk13VVngtlmegp67WUvpL5JUC8G2xU8n+ThZKKz0Q==",
+      "path": "dirkster.avalondock/4.72.1",
+      "hashPath": "dirkster.avalondock.4.72.1.nupkg.sha512"
+    },
+    "Dirkster.AvalonDock.Themes.VS2013/4.72.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g+hcHokgRFSvznqsVWxHxPCrUMxe18MTJjXMRVQJTVNo/Kwx8krdNiRnCSUDkuVtr2z29EtC4QofZhwUB7FS+w==",
+      "path": "dirkster.avalondock.themes.vs2013/4.72.1",
+      "hashPath": "dirkster.avalondock.themes.vs2013.4.72.1.nupkg.sha512"
+    },
+    "Fluent.Ribbon/10.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8jlnYb0S5xJowsJRt26ZQ6/GQFd6RBGQ3mI7YnayKM/y8MFSFsAmvurh6vXMgEJlBd9LRdEnpIVO9R1v7NZSIw==",
+      "path": "fluent.ribbon/10.0.4",
+      "hashPath": "fluent.ribbon.10.0.4.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.Analyzers/3.3.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AxkxcPR+rheX0SmvpLVIGLhOUXAKG56a64kV9VQZ4y9gR9ZmPXnqZvHJnmwLSwzrEP6junUF11vuc+aqo5r68g==",
+      "path": "microsoft.codeanalysis.analyzers/3.3.4",
+      "hashPath": "microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.Common/4.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c1kNYihL2gdcuU1dqm8R8YeA4YkB43TpU3pa2r66Uooh6AAhRtENzj9A4Kj0a+H8JDDyuTjNZql9XlVUzV+UjA==",
+      "path": "microsoft.codeanalysis.common/4.12.0",
+      "hashPath": "microsoft.codeanalysis.common.4.12.0.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.CSharp/4.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-30vVQ1MizeC22iEdEvI2w0eTIYG43/L20yBzuQH01xKzJgHAoWehzI2F8u07o4mXh4DGMOjQF7aEm0zzvsG3Mg==",
+      "path": "microsoft.codeanalysis.csharp/4.12.0",
+      "hashPath": "microsoft.codeanalysis.csharp.4.12.0.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.CSharp.Scripting/4.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w2b47HQD/2bnFL+yKaaLTo/fNdx6mviHWl2YEqBHaFE08mTLAZPsLNiUuJzlx7oED0LnKZiC8cGPt2ImWWyJyg==",
+      "path": "microsoft.codeanalysis.csharp.scripting/4.12.0",
+      "hashPath": "microsoft.codeanalysis.csharp.scripting.4.12.0.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.Scripting.Common/4.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HS0nh9K+cSKLf04oDMExJKyZLzBv4tM2MNq6kmJCPuP7gf1chC7Iu6N1PYn7cw0PT9a3JuJf6Y1X7PXDpPJNrg==",
+      "path": "microsoft.codeanalysis.scripting.common/4.12.0",
+      "hashPath": "microsoft.codeanalysis.scripting.common.4.12.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.135": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r8qBEXmQfORso2+MVHnt8PSH4761zJ0SIxgQTSEDVLU97EN2FZdG6/ZCYUPhQy+OrPKgnpYBCAs3PS6Bs7wRsg==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.135",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.135.nupkg.sha512"
+    },
+    "System.Collections.Immutable/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AurL6Y5BA1WotzlEvVaIDpqzpIPvYnnldxru8oXJU2yFxFUy3+pNXjXd1ymO+RA0rq0+590Q8gaz2l3Sr7fmqg==",
+      "path": "system.collections.immutable/8.0.0",
+      "hashPath": "system.collections.immutable.8.0.0.nupkg.sha512"
+    },
+    "System.Reflection.Metadata/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ptvgrFh7PvWI8bcVqG5rsA/weWM09EnthFHR5SCnS6IN+P4mj6rE1lBDC4U8HL9/57htKAqy4KQ3bBj84cfYyQ==",
+      "path": "system.reflection.metadata/8.0.0",
+      "hashPath": "system.reflection.metadata.8.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/9.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zKONueQNAT06iqBFSsyH+29WfwaHXoO3o2xtuTcUjUgX0k9SzPX4MpUs+/J7lcHFPnB6yHztBeAJMLVlMqbCrA==",
+      "path": "system.text.encoding.codepages/9.0.7",
+      "hashPath": "system.text.encoding.codepages.9.0.7.nupkg.sha512"
+    },
+    "System.Text.Json/8.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0f1B50Ss7rqxXiaBJyzUu9bWFOO2/zSlifZ/UNMdiIpDYe4cY4LQQicP4nirK1OS31I43rn062UIJ1Q9bpmHpg==",
+      "path": "system.text.json/8.0.5",
+      "hashPath": "system.text.json.8.0.5.nupkg.sha512"
+    },
+    "Macad.Common/5.0.2109.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Macad.Core/5.0.2109.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Macad.Exchange/5.0.2109.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Macad.Interaction/5.0.2109.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Macad.Managed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Macad.Occt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Macad.Presentation/5.0.2109.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Macad.Resources/5.0.2109.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

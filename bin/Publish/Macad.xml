@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Macad</name>
+    </assembly>
+    <members>
+        <member name="T:Macad.Window.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:Macad.Window.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Macad.Window.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:Macad.Window.AboutDialog">
+            <summary>
+            Interaction logic for AboutDialog.xaml
+            </summary>
+            <summary>
+            AboutDialog
+            </summary>
+        </member>
+        <member name="M:Macad.Window.AboutDialog.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Macad.Window.WelcomeDialog">
+            <summary>
+            Interaction logic for WelcomeDialog.xaml
+            </summary>
+            <summary>
+            WelcomeDialog
+            </summary>
+        </member>
+        <member name="M:Macad.Window.WelcomeDialog.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Macad.Window.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:Macad.Window.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Macad.Window.MainWindowDocking">
+            <summary>
+            Interaction logic for MainWindowDocking.xaml
+            </summary>
+            <summary>
+            MainWindowDocking
+            </summary>
+        </member>
+        <member name="M:Macad.Window.MainWindowDocking.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Macad.Window.MainWindowRibbon">
+            <summary>
+            Interaction logic for MainWindowRibbon.xaml
+            </summary>
+            <summary>
+            MainWindowRibbon
+            </summary>
+        </member>
+        <member name="M:Macad.Window.MainWindowRibbon.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Macad.Window.MainWindowStatusBar">
+            <summary>
+            Interaction logic for MainWindowStatusBar.xaml
+            </summary>
+            <summary>
+            MainWindowStatusBar
+            </summary>
+        </member>
+        <member name="M:Macad.Window.MainWindowStatusBar.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Macad.Window.ViewportView">
+            <summary>
+            ViewportView
+            </summary>
+        </member>
+        <member name="M:Macad.Window.ViewportView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>
